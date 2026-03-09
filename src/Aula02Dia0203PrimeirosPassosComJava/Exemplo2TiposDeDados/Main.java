@@ -1,4 +1,4 @@
-package Dia0203PrimeirosPassosComJava.Exemplo2TiposDeDados;
+package Aula02Dia0203PrimeirosPassosComJava.Exemplo2TiposDeDados;
 
 public class Main {
     public static void main(String[] args) {

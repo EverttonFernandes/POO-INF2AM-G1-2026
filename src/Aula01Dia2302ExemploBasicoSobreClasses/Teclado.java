@@ -1,4 +1,4 @@
-package Dia2302Aula01ExemploBasicoSobreClasses;
+package Aula01Dia2302ExemploBasicoSobreClasses;
 
 public class Teclado {
     String marcaDoTeclado;

@@ -1,4 +1,4 @@
-package Dia0203PrimeirosPassosComJava.PrimeirosExercicios.Exercicio1;
+package Aula02Dia0203PrimeirosPassosComJava.PrimeirosExercicios.Exercicio1;
 
 import java.util.Scanner;
 

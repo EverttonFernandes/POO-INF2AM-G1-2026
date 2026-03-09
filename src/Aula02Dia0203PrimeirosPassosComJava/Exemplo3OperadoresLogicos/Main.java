@@ -1,4 +1,4 @@
-package Dia0203PrimeirosPassosComJava.Exemplo3OperadoresLogicos;
+package Aula02Dia0203PrimeirosPassosComJava.Exemplo3OperadoresLogicos;
 
 public class Main {
     public static void main(String[] args) {
